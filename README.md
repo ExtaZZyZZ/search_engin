@@ -1,4 +1,4 @@
-![# Search-in-files](Doc-P-56-637589381291346711.jpg)<br>
+![# Search-in-files](search_engine/Doc-P-56-637589381291346711.jpg)<br>
 ![GitHub author](https://img.shields.io/badge/made_by-OldScripter-009919)
 ![GitHub repo size](https://img.shields.io/github/repo-size/OldScripter/Search-in-files)
 ![GitHub author](https://img.shields.io/badge/made_on-C++-red)
