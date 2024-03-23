@@ -36,13 +36,7 @@ https://github.com/google/googletest<br>
 `cmake -S . -B "build"`<br>
 `cmake --build build --config Release`<br>
 
-* Step 2: copy files:<br>
-`.\bin\requests.json`, `.\bin\config.json`, `.\bin\answers.json` and `.\bin\resources` folder<br>
-from `.\bin` folder <br>
-to the `.\bin\Release` folder.<br>
-
-* Step 3: run the application:<br>
-`.\bin\Release\Search_in_files`<br>
+* Step 2: running .exe
 
 ## Files specification
 * config.json<br>
