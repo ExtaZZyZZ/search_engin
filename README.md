@@ -1,5 +1,5 @@
 ![# Search-in-files](search_engine/Doc-P-56-637589381291346711.jpg)<br>
-![GitHub author](https://img.shields.io/badge/made_by-OldScripter-009919)
+![GitHub author](https://img.shields.io/badge/made_by-ExtaZZyZZ-009919)
 ![GitHub repo size](https://img.shields.io/github/repo-size/OldScripter/Search-in-files)
 ![GitHub author](https://img.shields.io/badge/made_on-C++-red)
 <br><i> Search for words in files</i> | <i> Поиск слов в файлах.</i>
